@@ -1,0 +1,5 @@
+calm : 82
+not_intrested : 14
+intrested : 5
+concentrated : 13
+sleepy : 4
